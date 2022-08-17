@@ -1,6 +1,9 @@
 ### Hi there 👋, my name is Grace Selolo
 #### Cloud developer and Full Stack Web Developer
-![Cloud developer and Full Stack Web Developer](www.linkedin.com/in/grace-selolo-192056232)
+
+![image](https://user-images.githubusercontent.com/102596450/185247819-8c70bf6b-e083-4572-93bc-a82e8f21d4d8.png)
+
+(www.linkedin.com/in/grace-selolo-192056232)
 
  I am a Cloud Developer and Full Stack Web Developer. I am a tech enthusiast and love learning about new technologies.I also enjoy UI, UX, and design in general.
 
