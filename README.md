@@ -1,6 +1,8 @@
 # Hi there 👋, my name is Grace Selolo
 
+
 ![banner](https://user-images.githubusercontent.com/102596450/185249407-ac45f775-0ad6-4bd5-b6fd-baeff4c51386.png)
+
 
 (www.linkedin.com/in/grace-selolo-192056232)
 
@@ -8,7 +10,17 @@
  I am a Cloud Developer and Full Stack Web Developer. I am a tech enthusiast and love learning about new technologies.
  I also enjoy UI, UX, and design in general.
 
-Skills:"*" HTML / CSS/ .NET/ Python/ Javascript/ TypeScript
+
+### Skills:
+
+"*"HTML 
+CSS
+.NET
+Python
+Javascript
+TypeScript
+
+### What am I currently working on?
 
 - 🔭 I’m currently working on Hotel website 
 - 🌱 I’m currently learning Cloud development 
