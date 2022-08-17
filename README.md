@@ -2,6 +2,7 @@
 
 
 ![banner](https://user-images.githubusercontent.com/102596450/185249407-ac45f775-0ad6-4bd5-b6fd-baeff4c51386.png)
+# CODING, # CREATING
 
 
 (www.linkedin.com/in/grace-selolo-192056232)
@@ -13,12 +14,12 @@
 
 ### Skills:
 
-"*"HTML 
-CSS
-.NET
-Python
-Javascript
-TypeScript
+- HTML 
+- CSS
+- .NET
+- Python
+- Javascript
+- TypeScript
 
 ### What am I currently working on?
 
