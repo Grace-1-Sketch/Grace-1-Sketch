@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi there 👋, my name is Grace Selolo
 
-<!--
-**Grace-1-Sketch/Grace-1-Sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Grace Selolo from South Africa. I am a Cloud Developer and Full Stack Web Developer. I am a tech enthusiast and love learning about new technologies.I also enjoy UI, UX, and design in general. 
+#### Cloud Developer and Full Stack Web Developer
+![Cloud Developer and Full Stack Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
+ I am a tech enthusiast and love learning about new technologies.I also enjoy UI, UX, and design in general.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: HTML / CSS/ .NET/ Python/ Javascript/ TypeScript
+
+
+
+
+
+
+ 
