@@ -1,4 +1,4 @@
-#Cloud developer and Full Stack Web Developer
+*Cloud developer and Full Stack Web Developer*
 
 ##Hi there 👋, my name is Grace Selolo
 
