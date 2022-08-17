@@ -1,7 +1,10 @@
 ### Hi there 👋, my name is Grace Selolo
+
+![banner](https://user-images.githubusercontent.com/102596450/185249407-ac45f775-0ad6-4bd5-b6fd-baeff4c51386.png)
+
 #### Cloud developer and Full Stack Web Developer
 
-![image](https://user-images.githubusercontent.com/102596450/185247819-8c70bf6b-e083-4572-93bc-a82e8f21d4d8.png)
+
 
 (www.linkedin.com/in/grace-selolo-192056232)
 
