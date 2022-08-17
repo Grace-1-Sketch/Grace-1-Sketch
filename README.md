@@ -23,8 +23,8 @@
 
 ### What am I currently working on?
 
-- 🔭 I’m currently working on Hotel website 
-- 🌱 I’m currently learning Cloud development 
+- 🔭 I’m currently working on Hotel website. 
+- 🌱 I’m currently learning Cloud development.
 - 📫 How to reach me: email: selolograce2000@gmail.com  
 
 
